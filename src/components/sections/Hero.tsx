@@ -95,7 +95,7 @@ export default function Hero() {
         {/* Light Mode: Architectural Minimal */}
         <div className="absolute inset-0 z-0 dark:hidden">
           <Image
-            src="/Lightmode1.png"
+            src="/lightmode1.png"
             alt="Architectural Abstract"
             fill
             sizes="100vw"
