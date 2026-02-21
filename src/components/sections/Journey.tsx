@@ -17,8 +17,8 @@ const journey = [
   },
   {
     year: "2025",
-    role: "The Pivot to Tech",
-    company: "Self-Taught Journey",
+    role: "Pivote to Tech: MCA Graduate",
+    company: "Self-Taught Journey ",
     description: " Post Graduated with a Master of Computer Applications(MCA) but discovered a passion for problem-solving. Dedicated 500+ hours to mastering the MERN stack and software engineering fundamentals."
   },
   {
