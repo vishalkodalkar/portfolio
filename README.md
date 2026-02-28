@@ -5,7 +5,7 @@ A modern and responsive personal portfolio built using **Next.js** to showcase m
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-portfolio-url.vercel.app
+🔗 (https://portfolio-delta-eight-52.vercel.app/)
 
 ---
 
@@ -49,7 +49,7 @@ public/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/vishalkodalkar/portfolio.git
 cd portfolio
 npm install
 npm run dev
