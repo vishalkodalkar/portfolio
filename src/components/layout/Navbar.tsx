@@ -81,7 +81,7 @@ export default function Navbar() {
             <div className="pl-4 border-l border-foreground/20 dark:border-white/20 flex gap-4">
               <ThemeToggle />
               <a
-                href="/Vishal-resume.pdf"
+                href="/vishalupdatedresume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hidden xl:inline-flex items-center justify-center px-4 py-1 text-sm font-bold uppercase tracking-wide bg-white text-black hover:bg-white/90 transition-colors rounded-sm"
@@ -126,7 +126,7 @@ export default function Navbar() {
                 </Link>
               ))}
               <a
-                href="/Vishal-resume.pdf"
+                href="/vishalupdatedresume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setIsMobileMenuOpen(false)}
